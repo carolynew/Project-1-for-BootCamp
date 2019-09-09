@@ -1,2 +1,0 @@
-from yelpapi import YelpAPI
-yelp_api = YelpAPI(api_key)
